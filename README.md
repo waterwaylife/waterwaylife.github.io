@@ -1,32 +1,19 @@
-Freelancer Jekyll theme
+Waterway Life
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+Check out lifestyle, eco visits, restaurants, upcoming places, updates, lost and found and much more.
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+## Why this site?
+ - This site is built for the community
+ - In support of the environment, eco, nature and fun in the area
+ - We invite all to join us and build a vibrant community
 
 ---
-```
+## Other venues
+Twitter: @waterwayridges, @waterwayliving
+Facebook: https://www.facebook.com/WaterwayLiving-630101467180596/
+Instagram: WaterwayLife
+Flickr: WaterwayLife
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+## Integration with IOS and Android
+Currently work in progress, there will be matching platform apps for a "What's near me?"-kind app
