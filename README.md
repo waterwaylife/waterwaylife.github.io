@@ -10,10 +10,10 @@ Check out lifestyle, eco visits, restaurants, upcoming places, updates, lost and
 
 ---
 ## Other venues
-Twitter: @waterwayridges, @waterwayliving
-Facebook: https://www.facebook.com/WaterwayLiving-630101467180596/
-Instagram: WaterwayLife
-Flickr: WaterwayLife
+ - Twitter: @waterwayridges, @waterwayliving
+ - Facebook: https://www.facebook.com/WaterwayLiving-630101467180596/
+ - Instagram: WaterwayLife
+ - Flickr: WaterwayLife
 
 ## Integration with IOS and Android
 Currently work in progress, there will be matching platform apps for a "What's near me?"-kind app
