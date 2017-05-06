@@ -39,13 +39,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/waterwaylife
+    url: http://twitter.com/waterwayliving
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/waterwaylife
-  - title: bitbucket
-    url: http://bitbucket.org/waterwaylife
+    url: https://www.facebook.com/WaterwayLiving-630101467180596/
   - title: github
     url: http://github.com/waterwaylife
 
